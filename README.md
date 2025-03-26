@@ -1,1 +1,1 @@
-# Amazon
+echo "Basic application of amazon"
